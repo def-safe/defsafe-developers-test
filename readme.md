@@ -48,7 +48,7 @@ The website functionality is simple and straightforward: A cat fact is displayed
 - Nuxt modules are your friends, especially the icons module
 - Pay attention to visual details
 
-### Approximate Expected Execution Time:
+## Approximate Expected Execution Time:
 
 45-90 minutes
 
