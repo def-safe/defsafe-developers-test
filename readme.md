@@ -13,7 +13,7 @@ The website functionality is simple and straightforward: A cat fact is displayed
 ## Technologies to use:
 
 - Nuxt.js 3 (you are free to use any modules you need.)
-- Tailwind.js
+- Tailwind CSS
 
 ## Sources:
 
