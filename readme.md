@@ -4,7 +4,7 @@ You've been selected to create the website of the prestigious institution "The D
 
 ## Web Page Design:
 
-![Image](design.png){ width="100%" }
+![Image](design.png)
 
 ## Instructions:
 
