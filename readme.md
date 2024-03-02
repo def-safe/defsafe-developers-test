@@ -37,7 +37,7 @@ The website functionality is simple and straightforward: A cat fact is displayed
 #### Bonus Points:
 
 - +5 Points: Make the website responsive
-- +5 Points: Use SSR and make the API call from the server side
+- +5 Points: Make the API call from the server side using the /server folder
 - +5 Points: Fetch many facts in only one API call and cache it so that all button clicks after the first one load from the cache.
 - +5 Points: Use Pinia as a state manager
 - +2 Points: Deliver the solution including Unit Testing
