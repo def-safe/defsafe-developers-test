@@ -19,12 +19,9 @@ The website functionality is simple and straightforward: A cat fact is displayed
 
 - API: [https://github.com/wh-iterabb-it/meowfacts](https://github.com/wh-iterabb-it/meowfacts)
 - Color Palette: [https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4](https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4)
-- Images:
-  - [https://placekitten.com/g/700/700](https://placekitten.com/g/700/700)
-  - [https://placekitten.com/g/250/300](https://placekitten.com/g/250/300)
-  - [https://placekitten.com/g/250/350](https://placekitten.com/g/250/350)
+- Images are on the /images folder
 - Font: Jost (Google Fonts)
-- Icon: Material Symbols Refresh
+- Icon: Material Symbols
 
 ## Test Scoring:
 
@@ -40,12 +37,12 @@ The website functionality is simple and straightforward: A cat fact is displayed
 - +5 Points: Make the API call from the server side using the /server folder
 - +5 Points: Fetch many facts in only one API call and cache it so that all button clicks after the first one load from the cache.
 - +5 Points: Use Pinia as a state manager
-- +2 Points: Deliver the solution including Unit Testing
-- +2 Points: Add a fade out/in effect for each cat fact refresh
+- +3 Points: Deliver the solution including Unit Testing
+- +3 Points: Add a fade out/in effect for each cat fact refresh
 
 ## Tips:
 
-- Nuxt modules are your friends, especially the icons module
+- Nuxt modules are your friends
 - Pay attention to visual details
 
 ## Approximate Expected Execution Time:
