@@ -6,6 +6,8 @@ You've been selected to create the website of the prestigious institution "The D
 
 ![Image](design.png)
 
+Note: The cat images on the design are placeholder images. You may use the images on the /images folder.
+
 ## Instructions:
 
 The website functionality is simple and straightforward: A cat fact is displayed to the user. Whenever the user wants to see a new cat fact, they should click the blue button. This retrieves a new cat fact from a public API and refreshes the fact.
