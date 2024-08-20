@@ -49,10 +49,6 @@ The website functionality is simple and straightforward: A cat fact is displayed
 - Nuxt modules are your friends
 - Pay close attention to visual details
 
-## Approximate Expected Execution Time:
-
-45-90 minutes
-
 ## Submission Instructions:
 
 To finalize and submit the solution, you must deploy the solution on Vercel and send us an email to the same address you received this test from, with the subject **_"Defsafe Application Test - [Your Full Name]"_** with the following content:
