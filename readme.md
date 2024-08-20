@@ -32,10 +32,10 @@ The website functionality is simple and straightforward: A cat fact is displayed
 - 5 points: Delivering the test
 - 5 points: Replicate the screen design using Tailwind
 - 5 points: Correctly calling the API and returning/displaying the data
+- 5 Points: Make the website responsive
 
-#### Bonus Points:
+#### Bonus Points (Optional but recommended, calculated as tiebreaker):
 
-- +5 Points: Make the website responsive
 - +5 Points: Make the API call from the server side using the /server folder
 - +5 Points: Fetch many facts in only one API call and cache it so that all button clicks after the first one load from the cache.
 - +5 Points: Use Pinia as a state manager
@@ -45,7 +45,7 @@ The website functionality is simple and straightforward: A cat fact is displayed
 ## Tips:
 
 - Nuxt modules are your friends
-- Pay attention to visual details
+- Pay close attention to visual details
 
 ## Approximate Expected Execution Time:
 
