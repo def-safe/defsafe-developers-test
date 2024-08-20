@@ -36,11 +36,11 @@ The website functionality is simple and straightforward: A cat fact is displayed
 - 5 points: Correctly calling the API and returning/displaying the data
 - 5 Points: Make the website responsive
 - 5 Points: Make the API call from the server side using the /server folder
+- 5 Points: Use Pinia as a state manager
 
 #### Bonus Points (Optional but recommended, calculated as tiebreaker):
 
 - +5 Points: Fetch many facts in only one API call and cache it so that all button clicks after the first one load from the cache.
-- +5 Points: Use Pinia as a state manager
 - +3 Points: Deliver the solution including Unit Testing
 - +3 Points: Add a fade out/in effect for each cat fact refresh
 
