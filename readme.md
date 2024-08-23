@@ -62,7 +62,7 @@ This section is where users can view the cats available for adoption and submit 
 - Ensure the website is responsive and looks good on both desktop and mobile devices.
 
 ## Sources:
-- **Color Palette:** [https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4](https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4)
+- **Color Palette:** [https://coolors.co/palette/e7ecef-274c77-6096ba-a3cef1-8b8c89](https://coolors.co/palette/e7ecef-274c77-6096ba-a3cef1-8b8c89)
 - **Images:** Use images from the `/images` folder.
 - **Font:** Jost (Google Fonts)
 - **Icon:** Material Symbols
