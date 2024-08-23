@@ -1,9 +1,9 @@
-# The Defsafe Cat Adoption Platform Developer Test
+# The Defsafe Cat Adoption Platform - Developers Test
 
 ## Overview:
 You've been selected to create the website for the prestigious institution "The Defsafe Cat Adoption Platform." This will be a two-part application with both frontend and backend components. Your task is to develop a cat adoption platform where administrators can manage cat records, and users can view available cats and adopt them.
 
-## Part 1: Admin Backend
+## Part 1: Admin Panel
 This section is where an authenticated administrator can manage the cat listings on the platform.
 
 ### Requirements:
@@ -21,9 +21,9 @@ This section is where an authenticated administrator can manage the cat listings
    - **Update:** Enable the admin to edit the details of existing cat profiles.
    - **Delete:** Allow the admin to remove cat profiles from the platform.
 
-3. **Backend:**
+3. **Stack:**
    - Use **Nuxt.js 3** server functions for handling all backend operations.
-   - **Prisma** should be used for managing the database.
+   - **Prisma ORM** should be used for managing the database.
    - **Supabase** can be used for user authentication and database management.
 
 ## Part 2: Public Frontend
@@ -46,6 +46,8 @@ This section is where users can view the cats available for adoption and submit 
 4. **Frontend:**
    - Use **Nuxt.js 3** for the frontend.
    - Style the website using **Tailwind CSS**.
+   - Use **Pinia** for State Management.
+   - Use **Zod** for Validation.
 
 ## Web Page Design:
 
