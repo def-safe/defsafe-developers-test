@@ -14,17 +14,16 @@ This section is where an authenticated administrator can manage the cat listings
    - The submission must include the username and password for the admin account.
 
 2. **CRUD Operations for Cats:**
-   - **Create:** Allow the admin to add new cat profiles, including fields like name, description, and an image.
-     - **Bonus:** Include a feature that allows the admin to generate a random name for the cat.
+   - **Create:** Allow the admin to add new cat profiles, including the following fields: name, description, and an image.
      - The image field can either accept a URL or allow the admin to upload an image directly.
    - **Read:** Display a list of all cat profiles.
    - **Update:** Enable the admin to edit the details of existing cat profiles.
    - **Delete:** Allow the admin to remove cat profiles from the platform.
 
 3. **Stack:**
-   - Use **Nuxt.js 3** server functions for handling all backend operations.
+   - Use **Nuxt.js 3** server functions for handling all API operations.
    - **Prisma ORM** should be used for managing the database.
-   - **Supabase** can be used for user authentication and database management.
+   - **Supabase** should be used for user authentication and database management.
 
 ## Part 2: Public Frontend
 This section is where users can view the cats available for adoption and submit an adoption request.
@@ -45,6 +44,7 @@ This section is where users can view the cats available for adoption and submit 
 
 4. **Frontend:**
    - Use **Nuxt.js 3** for the frontend.
+   - Use **Nuxt.js 3** server functions for API requests.
    - Style the website using **Tailwind CSS**.
    - Use **Pinia** for State Management.
    - Use **Zod** for Validation.
