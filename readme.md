@@ -49,23 +49,16 @@ This section is where users can view the cats available for adoption and submit 
    - Use **Pinia** for State Management.
    - Use **Zod** for Validation.
 
-## Web Page Design:
+## Page Designs
 
-// IMAGES COMING SOON
-
-### Admin Backend:
-- Implement a clean and user-friendly admin interface.
-- The admin dashboard should clearly display all cats and offer simple controls for creating, editing, and deleting entries.
-
-### Public Frontend:
-- The frontend should be visually appealing, following the color palette provided.
-- Ensure the website is responsive and looks good on both desktop and mobile devices.
+## Designs
+- Page designs for both the App and Admin Panel are in the "/assets/Elements" folder
 
 ## Sources:
-- **Color Palette:** [https://coolors.co/palette/e7ecef-274c77-6096ba-a3cef1-8b8c89](https://coolors.co/palette/e7ecef-274c77-6096ba-a3cef1-8b8c89)
-- **Images:** Use images from the `/images` folder.
-- **Font:** Jost (Google Fonts)
-- **Icon:** Material Symbols
+- **Color Palette:** [https://coolors.co/ffffff-4e2096-f9f8fb](https://coolors.co/ffffff-4e2096-f9f8fb)
+- **Images:** Use assets from the `/assets/Elements` folder.
+- **Font:** Inter (Google Fonts)
+- **Icons:** Iconify
 
 ## Test Scoring:
 
@@ -75,10 +68,10 @@ This section is where users can view the cats available for adoption and submit 
 - **5 points:** Implementing all CRUD operations using Prisma
 - **5 points:** Displaying the cat listing on the frontend
 - **5 points:** Making the "Adopt" button functional and storing adoption requests
-- **5 points:** Making the website fully responsive
 - **5 points:** Using Nuxt.js 3 server functions for the backend
 
 ### Bonus Points (Optional but recommended, calculated as a tiebreaker):
+- **+5 points:** Making the website fully responsive
 - **+5 Points:** Implement a feature that tracks the adoption status of each cat and disables the "Adopt" button for already adopted cats.
 - **+5 Points:** Implement a random name generator for cat profiles.
 - **+5 Points:** Implement an image upload feature for the cat profile images.
@@ -86,9 +79,19 @@ This section is where users can view the cats available for adoption and submit 
 - **+3 Points:** Add a fade-out/in effect when transitioning between different cat profiles on the public frontend.
 
 ## TIPS
-- You may use any Nuxt library you may see fit
-- Don't reinvent the wheel! Use Supabase Authentication to save time
-- Pay attention to the design details
+- You may use any Nuxt library you may see fit.
+- Don't reinvent the wheel! Use Supabase Authentication to save time.
+- Pay attention to the design details.
+
+## Questions
+- To make this process fair for everyone, this test is self-explanatory.
+- We will not take or reply to any questions about the test itself. Every developer will get the exact same information. 
+- If you have any doubts or questions, feel free to use your logic and deduction to solve the test however you see fit.
+
+## Feedback and Hiring
+- Completing this test on time guarantees you a feedback from our team.
+- Competing this test on a minimum satisfaction level will grant you an interview with our team.
+- This test is part of our hiring process, which consists of a test and an interview.
 
 ## Submission Instructions:
 To finalize and submit the solution, ensure that both the frontend and backend are in a single GitHub repository. Deploy the solution on Vercel and send us an email to the address you received with the test link, with the subject "Defsafe Application Test - [Your Full Name]" including the following details:
