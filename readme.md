@@ -49,8 +49,6 @@ This section is where users can view the cats available for adoption and submit 
    - Use **Pinia** for State Management.
    - Use **Zod** for Validation.
 
-## Page Designs
-
 ## Designs
 - Page designs for both the App and Admin Panel are in the "/assets/Elements" folder
 
